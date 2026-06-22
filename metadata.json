@@ -1,0 +1,10 @@
+{
+  "name": "建筑保护辅助系统",
+  "description": "集现状评估、保护方案设计、保护过程监督于一体的智能古建筑及历史建筑保护辅助系统。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
